@@ -11,3 +11,11 @@ params:
   logo:
     header: /assets/images/logo.png
     footer: /assets/images/typo.png
+
+  image_sizes: 
+    sections:
+      events:
+        hero_single:
+          mobile:   400
+          tablet:   1024
+          desktop:  1920
