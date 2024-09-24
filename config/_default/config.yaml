@@ -9,5 +9,5 @@ params:
   search:
     active: true
   logo:
-    header: ''
-    footer: ''
+    header: /assets/images/logo.png
+    footer: /assets/images/typo.png
