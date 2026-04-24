@@ -15,6 +15,6 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/agenda/2024-09-25-les-bienheureuses-rencontres-7/"
+from = "/agenda/2024-09-25-les-bienheureuses-rencontres-7/index.html"
 to = "/agenda/2024/les-bienheureuses-rencontres-7/"
 
