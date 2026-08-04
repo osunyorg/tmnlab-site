@@ -1,4 +1,5 @@
 theme: osuny
+_merge: deep
 enableRobotsTXT: true
 removePathAccents: true
 pagination:
